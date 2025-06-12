@@ -8,5 +8,11 @@ public class Categories{
   private String sts1;
   private String sts2;
   private String address;
+<<<<<<< HEAD
   private String payment;
+=======
+  private String from;
+  private String too;
+
+>>>>>>> f96db1ede724e38c94deb9532380e21fd314e7de
 }
