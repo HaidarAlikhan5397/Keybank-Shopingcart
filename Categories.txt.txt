@@ -8,9 +8,7 @@ public class Categories{
   private String sts1;
   private String sts2;
   private String address;
-<<<<<<< HEAD
   private String payment;
-=======
   private String from;
   private String too;
 
