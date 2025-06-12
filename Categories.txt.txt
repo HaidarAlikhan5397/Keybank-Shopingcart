@@ -12,5 +12,5 @@ public class Categories{
   private String from;
   private String too;
 
->>>>>>> f96db1ede724e38c94deb9532380e21fd314e7de
+
 }
