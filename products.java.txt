@@ -1,2 +1,8 @@
+package com.sreenuTech;
 public class product{
+   private String id;
+   private String descp;
+   private String name;
+   private String imgUrl;
+   private String qty;
 }
