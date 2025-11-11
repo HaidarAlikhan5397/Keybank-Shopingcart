@@ -8,4 +8,5 @@ public class product{
    private String imgUrl;
    private String qty;
    private String address;
+   private String addBranch;
 }
