@@ -9,4 +9,6 @@ public class product{
    private String qty;
    private String address;
    private String addBranch;
+   private String feature5;
+   
 }
